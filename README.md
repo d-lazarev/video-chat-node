@@ -7,7 +7,7 @@ Read the blog post to see how to build this: [Getting Started with WebRTC using 
 # Quick start
 * Clone this repo
 ```
-git clone https://github.com/philnash/video-chat.git
+git clone https://github.com/d-lazarev/video-chat-node.git
 cd video-chat
 ```
 * Install dependencies
